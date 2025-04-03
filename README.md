@@ -71,9 +71,6 @@ A responsive logistics dashboard built with **Next.js**, allowing users to view,
 
 ---
 
-## 📺 Demo
-I shared a video demonstration and you can see it [clicking Here!](https://drive.google.com/file/d/1BRTTTzClfVJpFgJyqo1RoogBMlwLreLk/view?usp=sharing)
-
 
 ## 🪄 Deployed website
 You can interact and test at the following Vercel URL:
@@ -115,8 +112,12 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
+## 📺 Demo
+I shared a video demonstration and you can see it [clicking here!](https://drive.google.com/file/d/1BRTTTzClfVJpFgJyqo1RoogBMlwLreLk/view?usp=sharing)
+
 ## 🌐 Deployment
 This app is ready to be deployed using [Vercel](https://vercel.com) or any platform that supports Next.js.
+- https://magnet-logistics.vercel.app/
 
 ## 👤 Author
 - Cristian Pinzón - faykris28@gmail.com
